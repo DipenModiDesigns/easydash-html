@@ -1,23 +1,24 @@
 {
-  "name": "easydash-html",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "glob": "^10.3.10",
-    "postcss": "^8.4.32",
-    "sass": "^1.69.5",
-    "tailwindcss": "^3.3.6",
-    "vite": "^5.0.8"
-  },
-  "dependencies": {
-    "alpinejs": "^3.13.3",
-    "fs": "^0.0.1-security"
-  }
+	"name": "easydash-html",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.16",
+		"glob": "^10.3.10",
+		"postcss": "^8.4.32",
+		"sass": "^1.69.5",
+		"tailwindcss": "^3.3.6",
+		"vite": "^5.0.8"
+	},
+	"dependencies": {
+		"alpinejs": "^3.13.3",
+		"boxicons": "^2.1.4",
+		"fs": "^0.0.1-security"
+	}
 }
